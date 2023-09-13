@@ -1,49 +1,55 @@
 # History files
 .Rhistory
 .Rapp.history
-
 # Session Data files
 .RData
 .RDataTmp
+assignment01.R
+asmnt.one.Rmd
+asmnt.one.html
+assignment01.Rproj
+previous_index.html
+images/gila_skate.jpg
+images/meanWAKDE_Year_bar.png
+images/meanWAKDE_Site_bar.png
+scripts/00_assignment.R
+data/Env.HR.csv
+images/gila_gif.gif
+images/gila_habitat.jpg
+images/gila_monster.jpg
+images/WAKDE_Avg.AS.Precip_point.png
+images/WAKDE_Avg.MSAVI2_point.png
+github1.Rproj
 
 # User-specific files
 .Ruserdata
-
 # Example code in package build process
 *-Ex.R
-
 # Output files from R CMD build
 /*.tar.gz
-
 # Output files from R CMD check
 /*.Rcheck/
-
 # RStudio files
 .Rproj.user/
-
+.Rproj.user/scripts
+.Rproj.user/images
+.Rproj.user/data
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
-
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
-
 # knitr and R markdown default cache directories
 *_cache/
 /cache/
-
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-
 # R Environment Variables
 .Renviron
-
 # pkgdown site
 docs/
-
 # translation temp files
 po/*~
-
 # RStudio Connect folder
 rsconnect/
